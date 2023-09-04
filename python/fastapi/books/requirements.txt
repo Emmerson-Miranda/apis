@@ -1,0 +1,8 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pytest==7.4.1
+httpx==0.24.1
+flake8==6.1.0
+coverage==7.3.0
+pdoc3==0.10.0
+black
